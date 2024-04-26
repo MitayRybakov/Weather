@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Weather</string>
+    <string name="baseUrl">https://api.weather.yandex.ru/</string>
+    <string name="choice">Выберите город</string>
+</resources>
